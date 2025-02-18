@@ -1,0 +1,20 @@
+# Directory dei moduli Node.js
+node_modules/
+
+# Log e file di debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# File di ambiente (se ne usi)
+.env
+
+# File specifici del sistema operativo
+.DS_Store
+
+# Dati di sessione di whatsapp-web.js (LocalAuth)
+.wwebjs_auth/
+
+# Cartella di PM2 (se presente)
+.pm2/
