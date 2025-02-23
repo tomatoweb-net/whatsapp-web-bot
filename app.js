@@ -8,10 +8,10 @@ const port = process.env.PORT || 3000;
 let qrCodeImage = null;
 
 // Configurazione proxy
-const PROXY_HOST = 's6.airproxy.io';
-const PROXY_PORT = '20706';
-const PROXY_USER = 'comunicapervincere';
-const PROXY_PASS = 'comunicapervincere';
+const PROXY_HOST = 'xxxx';
+const PROXY_PORT = 'xxx';
+const PROXY_USER = 'xxxx';
+const PROXY_PASS = 'xxxxx';
 
 // Configura il client WhatsApp
 const client = new Client({
