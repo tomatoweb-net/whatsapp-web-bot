@@ -35,7 +35,7 @@
     "fluent-ffmpeg": "2.1.2",
     "http-proxy": "^1.18.1",
     "mime": "^3.0.0",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^3.3.2",
     "node-webpmux": "3.1.7",
     "pm2": "^5.4.3",
     "puppeteer": "^18.2.1",
